@@ -11,7 +11,7 @@ This JavaScript script automatically removes all posts from your personal wall o
 ⚠️ Works with VK’s 2025 interface. The script uses up-to-date DOM selectors and class names.
 
 🛠️ How to Use
-Go to your VK page: https://vk.com/your_id
+Go to your VK page: https://vk.com/
 
 Scroll down a bit to load a few posts
 
@@ -70,7 +70,7 @@ MIT — free to use with no warranty.
 ⚠️ Работает с новым интерфейсом VK на 2025 год. Скрипт использует актуальные классы и структуру DOM.
 
 🛠️ Как использовать
-Откройте свою страницу ВКонтакте: https://vk.com/your_id
+Откройте свою страницу ВКонтакте: https://vk.com/
 
 Прокрутите немного вниз (загрузите несколько постов)
 
